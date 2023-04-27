@@ -26,12 +26,6 @@
         </plugins>
     </build>
     <dependencies>
-        <dependency>
-            <groupId>org.apache.maven.plugins</groupId>
-            <artifactId>maven-source-plugin</artifactId>
-            <version>3.2.1</version>
-            <type>maven-plugin</type>
-        </dependency>
     </dependencies>
 
     <properties>
